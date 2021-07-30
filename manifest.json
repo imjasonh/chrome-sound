@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "version": "0.0.1",
+  "name": "My extension",
+  "permissions": [
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "commands": {
+    "cycle-tab": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+1",
+        "mac": "Command+Shift+1"
+      },
+      "description": "Cycle back through sound tabs."
+    }
+  }
+}
+
