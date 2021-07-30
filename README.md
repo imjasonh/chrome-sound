@@ -9,3 +9,13 @@ Nothing can save you from such a fate.
 
 If you have multiple Chrome active profiles (and you probably should) then you need to install this on both.
 The extension won't highlight audible tabs across profiles :(
+
+### Installation
+
+For now, because this isn't published to the Chrome WebStore:
+
+1. clone this repo
+1. browse to `chrome://extensions` in Chrome
+1. click "Load unpacked"
+1. select the directory where you cloned this repo in (1)
+1. smash that ctrl+shift+1 button
