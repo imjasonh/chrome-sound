@@ -6,3 +6,6 @@ This repo contains a Chrome extension to set up a keyboard shortcut (ctrl+shift+
 
 It doesn't do anything smart if multiple tabs are making sound.
 Nothing can save you from such a fate.
+
+If you have multiple Chrome active profiles (and you probably should) then you need to install this on both.
+The extension won't highlight audible tabs across profiles :(
