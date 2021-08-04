@@ -19,3 +19,5 @@ For now, because this isn't published to the Chrome WebStore:
 1. click "Load unpacked"
 1. select the directory where you cloned this repo in (1)
 1. smash that ctrl+shift+1 button
+
+_Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>_
