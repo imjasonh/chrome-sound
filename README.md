@@ -1,7 +1,6 @@
 This repo contains a Chrome extension to set up a keyboard shortcut (ctrl+shift+1) to highlight the tab making sound.
 
-Install it here:
-https://chrome.google.com/webstore/detail/go-to-tab-making-sound-ke/khjmagmbbhdkmaicdhfehehdncmagbig?hl=en&authuser=0
+# [Install here](https://chrome.google.com/webstore/detail/go-to-tab-making-sound-ke/khjmagmbbhdkmaicdhfehehdncmagbig?hl=en&authuser=0)
 
 It uses the following Chrome extension APIs:
 - https://developer.chrome.com/docs/extensions/reference/commands/#basic-command
